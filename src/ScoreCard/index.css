@@ -1,0 +1,35 @@
+.score-container {
+  background-color: #cf60c8;
+  background-size: cover;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+.heading {
+  font-size: 30px;
+  color: #ffffff;
+}
+.result {
+  font-size: 25px;
+  color: #ffffff;
+  font-weight: bold;
+}
+.btn {
+  color: #ffffff;
+  background-color: #cf608e;
+  border: none;
+  border-radius: 13px;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+}
+.trophy {
+  width: 400px;
+  height: 300px;
+}
